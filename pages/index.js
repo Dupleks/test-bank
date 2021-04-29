@@ -55,7 +55,7 @@ function HomePage() {
                 label: 'Антон',
               },
             ]}
-            onChange={() => {}}
+            onChange={() => { }}
           />
         </Box>
 
@@ -95,7 +95,7 @@ function HomePage() {
             <Box paddingX={1} paddingY={1}>
               <Button
                 disabled={!!error}
-                text="Отправиьт"
+                text="Отправить"
                 color="red"
                 size="lg"
                 type="submit"
