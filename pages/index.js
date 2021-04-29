@@ -95,7 +95,7 @@ function HomePage() {
             <Box paddingX={1} paddingY={1}>
               <Button
                 disabled={!!error}
-                text="Отправить"
+                text="Отправиьт"
                 color="red"
                 size="lg"
                 type="submit"
